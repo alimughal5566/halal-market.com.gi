@@ -1,0 +1,4 @@
+[02-May-2020 19:29:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/inter849/public_html/halalmarket.sg/project/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/inter849/public_html/halalmarket.sg/project/config/session.php on line 19
